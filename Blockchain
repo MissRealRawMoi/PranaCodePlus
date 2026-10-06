@@ -1,0 +1,8 @@
+contract Wallet {
+    balance: UInt
+
+    func deposit(amount: UInt) {
+        require(amount > 0)
+        balance += amount
+    }
+}
