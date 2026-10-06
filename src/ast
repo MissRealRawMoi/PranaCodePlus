@@ -1,0 +1,8 @@
+# PranaCode+ AST (Abstract Syntax Tree)
+
+This directory defines the AST node structures used by the compiler.
+
+Suggested starter files:
+- ast_nodes.prana
+- ast_builder.prana
+- ast_types.prana
