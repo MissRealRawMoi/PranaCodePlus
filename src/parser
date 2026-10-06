@@ -1,0 +1,9 @@
+# PranaCode+ Parser
+
+This directory contains the parser, which transforms tokens into an
+Abstract Syntax Tree (AST).
+
+Suggested starter files:
+- parser.prana
+- grammar.prana
+- parser_errors.prana
