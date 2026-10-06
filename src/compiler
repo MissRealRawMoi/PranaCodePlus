@@ -1,0 +1,10 @@
+# PranaCode+ Compiler
+
+This directory contains the compiler logic that converts the AST into
+bytecode, machine code, or a target language.
+
+Suggested starter files:
+- compiler.prana
+- codegen.prana
+- optimizer.prana
+- compiler_errors.prana
