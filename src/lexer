@@ -1,0 +1,9 @@
+# PranaCode+ Lexer
+
+This directory contains the lexical analyzer responsible for converting
+raw source code into tokens.
+
+Suggested starter files:
+- tokenizer.prana
+- tokens.prana
+- lexer_errors.prana
