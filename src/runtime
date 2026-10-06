@@ -1,0 +1,10 @@
+# PranaCode+ Runtime
+
+This directory contains the runtime environment for executing PranaCode+
+programs, including memory management, execution engine, and built‑ins.
+
+Suggested starter files:
+- runtime.prana
+- memory.prana
+- execution_engine.prana
+- stdlib_loader.prana
