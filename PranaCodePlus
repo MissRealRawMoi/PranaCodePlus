@@ -1,0 +1,29 @@
+PranaCodePlus/
+│
+├── spec/
+│   ├── philosophy.md
+│   ├── mind-model.md
+│   ├── syntax.md
+│   ├── types.md
+│   ├── paradigms.md
+│   └── crypto_chain.md
+│
+├── std/
+│   ├── crypto/
+│   ├── chain/
+│   ├── finance/
+│   ├── contracts/
+│   └── governance/
+│
+├── src/
+│   ├── lexer/
+│   ├── parser/
+│   ├── ast/
+│   ├── compiler/
+│   └── runtime/
+│
+├── LICENSE.md
+├── COPYRIGHT.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── README.md
