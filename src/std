@@ -1,0 +1,15 @@
+# PranaCode+ Standard Library
+
+This directory contains the core modules of the PranaCode+ standard library.
+
+Subfolders to create:
+- crypto/
+- chain/
+- finance/
+- contracts/
+- governance/
+
+Each folder will contain:
+- module.prana
+- types.prana
+- functions.prana
